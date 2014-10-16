@@ -2,7 +2,7 @@
 
 /**
  * Plugin name: WP OpenCats
- * Plugin URI: https://github.com/UltraSimplified/OpenCATS/wordpress-plugin/wp-opencats
+ * Plugin URI: https://github.com/UltraSimplified/OpenCATS/wordpress-opencats
  * Description: Integrate OpenCATS job handling into WordPress
  * Version: 0.1
  * Author: Robin Layfield
