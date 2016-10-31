@@ -20,3 +20,5 @@ It would be better if OpenCATS exposed the jobs listing / details through an API
 
 *coded by UltraSimplified
 
+*all questions to RussH
+
