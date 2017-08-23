@@ -19,7 +19,7 @@ That should then display all the job details properly
 
 
 ##### Update
-	The plugin was updated to use a shortcode for jobs listing
+The plugin was updated to use a shortcode for jobs listing
   
 ##### Notes
 The plugin could be further improved by creating its own job page when it is first activated. It would be better if OpenCATS exposed the jobs listing / details through an API as well, instead of through a database connection.. but that depends on a significant change to the OpenCATS codebase.
