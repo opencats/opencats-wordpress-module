@@ -22,9 +22,9 @@ It would be better if OpenCATS exposed the jobs listing / details through an API
 
 *all questions to RussH
 
-# INSTALLING
+## INSTALLING
 
-## issues
+### issues
 Q. After installation in a vanilla wordpress then when you click "read more" to present the complete vacancy the link 
 doesn't work. Nothing happens 
 
@@ -38,4 +38,4 @@ That should then display all the job details properly
 
 
 Notes
-The plugin could be further improved by addin
+The plugin could be further improved by adding in a shortcode to display the job details, as well as creating its own job page when it is first activated. It would be better if OpenCATS exposed the jobs listing / details through an API as well, instead of through a database connection.
