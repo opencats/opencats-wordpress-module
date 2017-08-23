@@ -1,4 +1,4 @@
-# Wordpress module for OpenCATS
+## Wordpress module for OpenCATS
 
 *coded by UltraSimplified, all questions to RussH
 
