@@ -15,9 +15,9 @@ A. * create a page in the root of your website called job Job and then give it a
 I have included samples of the files in /sample - they are literally WordPress TwentyTwelve templates with the function calls in them.
 
 * Alternatively, from scratch please edit the page and create a custom template including this line:
-
- " <?php opencats_job_details( $job_id ); ?>"
-
+```
+  <?php opencats_job_details( $job_id ); ?>
+```
 That should then display all the job details properly
 
 
