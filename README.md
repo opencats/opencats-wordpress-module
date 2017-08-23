@@ -9,7 +9,7 @@ Q. After installation in a vanilla wordpress then when you click "read more" to 
 doesn't work. Nothing happens 
 
 A. Create a page in the root of your website called job Job and then give it a custom template with a function call to display the listings. 
-I have included samples of the files in job-tempaltes.zip - they are literally WordPress TwentyTwelve templates with the function calls in them.
+I have included samples of the files in job-templates.zip - they are literally WordPress TwentyTwelve templates with the function calls in them.
 
 * Alternatively, from scratch please edit the page and create a custom template including this line:
 ```
