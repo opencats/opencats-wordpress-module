@@ -16,7 +16,7 @@ I have included samples of the files in /sample - they are literally WordPress T
 
 * Alternatively, from scratch please edit the page and create a custom template including this line:
 
-<?php opencats_job_details( $job_id ); ?>
+ <?php opencats_job_details( $job_id ); ?>
 
 That should then display all the job details properly
 
